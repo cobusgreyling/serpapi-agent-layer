@@ -1,0 +1,11 @@
+price|airline|dep|arr|stops|mins|src
+703|Etihad|2026-11-11 09:50|2026-11-11 19:45|0|475|https://www.google.com/travel/flights?hl=en&gl=za&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDSk5CcgcIARIDQVVIGh4SCjIwMjYtMTEtMTZqBwgBEgNBVUhyBwgBEgNKTkJAAUgBcAGYAQE&tfu=EgIIAQ
+738|Qatar Airways|2026-11-11 13:45|2026-11-12 03:50|1|725|https://www.google.com/travel/flights?hl=en&gl=za&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDSk5CcgcIARIDQVVIGh4SCjIwMjYtMTEtMTZqBwgBEgNBVUhyBwgBEgNKTkJAAUgBcAGYAQE&tfu=EgIIAQ
+738|Qatar Airways|2026-11-11 20:20|2026-11-12 10:50|1|750|https://www.google.com/travel/flights?hl=en&gl=za&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDSk5CcgcIARIDQVVIGh4SCjIwMjYtMTEtMTZqBwgBEgNBVUhyBwgBEgNKTkJAAUgBcAGYAQE&tfu=EgIIAQ
+789|Ethiopian|2026-11-11 14:30|2026-11-12 03:10|1|640|https://www.google.com/travel/flights?hl=en&gl=za&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDSk5CcgcIARIDQVVIGh4SCjIwMjYtMTEtMTZqBwgBEgNBVUhyBwgBEgNKTkJAAUgBcAGYAQE&tfu=EgIIAQ
+848|Ethiopian|2026-11-11 23:00|2026-11-13 03:10|1|1570|https://www.google.com/travel/flights?hl=en&gl=za&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDSk5CcgcIARIDQVVIGh4SCjIwMjYtMTEtMTZqBwgBEgNBVUhyBwgBEgNKTkJAAUgBcAGYAQE&tfu=EgIIAQ
+
+name|rate|rating|link|src
+Dusit Thani Abu Dhabi|137|4.6|https://www.dusit.com/dusitthani-abudhabi/|https://www.google.com/travel/search?q=Abu+Dhabi+hotels&hl=en&gl=za
+Grand Hyatt Abu Dhabi Hotel & Residences|217|4.6|https://www.hyatt.com/grand-hyatt/en-US/auhgh-grand-hyatt-abu-dhabi-hotel-and-residences?src=corp_lclb_google_seo_auhgh&utm_source=google&utm_medium=organic&utm_campaign=lmr|https://www.google.com/travel/search?q=Abu+Dhabi+hotels&hl=en&gl=za
+Marriott Hotel Downtown, Abu Dhabi|139|4.5|https://www.marriott.com/en-us/hotels/auhmc-marriott-hotel-downtown-abu-dhabi/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0|https://www.google.com/travel/search?q=Abu+Dhabi+hotels&hl=en&gl=za

@@ -1,0 +1,5 @@
+metric,computer use (GUI): browser agent (DOM read),raw SerpApi JSON,formatted layer (uncached),formatted layer (cached)
+median_latency_s,"~90-120 (single run, end time estimated)",4.643,3.433,1e-06
+median_context_tokens,not measured,81728,902,902
+median_context_bytes,not measured,240702,1902,1902
+runs,1,3,3,3
