@@ -1,0 +1,8 @@
+Cheapest JNB to AUH flight on 11 Nov               -> {'layer': 'public-structured-API', 'engine': 'google_flights', 'then': 'formatted context layer'}
+3 hotels in Abu Dhabi for 11-16 Nov                -> {'layer': 'public-structured-API', 'engine': 'google_hotels', 'then': 'formatted context layer'}
+Who is hiring voice AI developer advocates?        -> {'layer': 'public-structured-API', 'engine': 'google_jobs', 'then': 'formatted context layer'}
+Latest news on Rasa                                -> {'layer': 'public-structured-API', 'engine': 'google_news', 'then': 'formatted context layer'}
+Download the invoice from my bank portal           -> {'layer': 'private-GUI', 'why': 'needs a logged-in session or a state-changing action'}
+Submit my leave form in the internal HR tool       -> {'layer': 'private-GUI', 'why': 'needs a logged-in session or a state-changing action'}
+Check my order history on Takealot                 -> {'layer': 'private-GUI', 'why': 'needs a logged-in session or a state-changing action'}
+Recent arxiv papers on agent harnesses             -> {'layer': 'public-structured-API', 'engine': 'google_scholar', 'then': 'formatted context layer'}
