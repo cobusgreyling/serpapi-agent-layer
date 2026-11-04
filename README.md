@@ -1,4 +1,4 @@
-![Three layers: GUI, structured public API, formatted context](header.svg)
+![Three layers: GUI, structured public API, formatted context](header.jpg)
 
 # Agents Don't Need Eyes for the Public Web
 
@@ -19,7 +19,7 @@ Sending an agent to click through Google Flights to read a public price is like 
 
 ## Three layers
 
-![Architecture](architecture.svg)
+![Architecture](architecture.jpg)
 
 1. **GUI layer (computer use).** The fallback. Private, logged-in, interactive work.
 2. **Structured public data layer (SerpApi).** Public web surfaces as JSON. No rendering, no scrolling, no captchas.
@@ -89,7 +89,7 @@ In production this would be a small model call, but the decision is the same: **
 python -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
 export SERPAPI_API_KEY=...   # see .env.example
 python bench.py      # 3 runs, writes runs.json, results.csv, sample_context.txt
-python charts.py     # charts + architecture diagram
+python charts.py     # token and latency charts
 python router.py
 ```
 
